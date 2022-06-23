@@ -25,7 +25,8 @@
   block_devices=()
   PARTITION_LAYOUT="Basic"
   FILE_SYSTEM="ext4"
-  DISK="/dev/nvme0n1"
+  # Change with your disk label example "/dev/lda/"
+  DISK="$1"
   PREFIX=""
   multilib=true
   DESKTOP="None"
