@@ -1,9 +1,9 @@
 # PearOS Installer Spanish
-Codigo original:
+Codigo original: https://github.com/pearOS-archlinux/pearOS-installer
 
 # PearOS Nice C0re Installer/Instalador
 This is work in progress. Not my fault if your disk gets erased :)
-https://github.com/pearOS-archlinux/pearOS-installer
+
 # How do I run this?/¿Como ejecutarlo?
 Open a terminal and:
 ```sh
