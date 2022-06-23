@@ -35,6 +35,6 @@ El script de instalación de arch era un instalador de interfaz de usuario de te
 - ~~equal (limpieza del código, algunos ajustes de la interfaz de usuario)~~ No comprometí su trabajo, cerré la solicitud de extracción
 - zhovner (base de la interfaz de usuario, hecha en electron. Está muy modificada, ni siquiera el 10% del código de zhovner aún está presente, pero *alguien* quiere que lo mencione xd)
 - @jorgeluiscarrillo (el script de instalación. Está EXTREMADAMENTE modificado, solo usé la estructura de codificación de esto, pero aún así, *alguien* puede reportar esto como *código robado* :))
-- Frank-Dev18 (Correccion de error en el script de instalacion)
+- Frank-Dev18 (Correccion de error en el script de instalacion y traduccion al español)
 - GitHub (desarrollando el Electron Framework)
 - Microsoft (mantenimiento y desarrollo de GitHub)
